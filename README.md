@@ -1,2 +1,3 @@
-# Setup Inicial projeto React
-## configurações e ajustes iniciais para o ambiente React
+# GIthub Explorer
+### Projeto em react que lista os repositorios do meu github
+
