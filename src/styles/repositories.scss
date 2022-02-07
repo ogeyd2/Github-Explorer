@@ -1,0 +1,26 @@
+section.repository-list {
+  margin: 4rem;
+
+  h1 {
+    margin-bottom: 1.6rem;
+  }
+  li {
+    & + li {
+      margin-top: 2rem;
+    }
+  }
+  p {
+    font-size: 14px;
+    color: #444;
+    margin-top: 8px;
+  }
+  a {
+    font-size: 12px;
+    display: inline-block;
+    margin-top: 16px;
+    text-decoration: none;
+    color: #8257e6;
+    font-weight: bolder;
+    text-transform: uppercase;
+  }
+}
