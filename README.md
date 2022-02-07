@@ -1,2 +1,2 @@
 # GIthub Explorer
-## Projeto em react que lista os repositorios do meu github
+### Projeto em react que lista os repositorios do meu github
